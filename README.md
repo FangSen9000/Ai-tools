@@ -14,5 +14,5 @@ Tools I wrote or collected for in-depth learning.
 
 ## More tools
 
-- [**Delete file name Spaces in batches**](https://github.com/FangSen9000/ai-tools/blob/main/%E6%89%B9%E9%87%8F%E5%88%A0%E9%99%A4%E6%96%87%E4%BB%B6%E5%90%8D%E7%A9%BA%E6%A0%BC.bat): Visual control dashboard of APISIX.
+- [**Delete file name Spaces in batches**](https://github.com/FangSen9000/ai-tools/blob/main/%E6%89%B9%E9%87%8F%E5%88%A0%E9%99%A4%E6%96%87%E4%BB%B6%E5%90%8D%E7%A9%BA%E6%A0%BC.bat): Delete file name Spaces in batches.
 - [**exetract_id.bat**](https://github.com/FangSen9000/ai-tools/blob/main/extract_id.bat): Extract all file names in the folder where the script resides.
