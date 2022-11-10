@@ -9,7 +9,7 @@ Tools I wrote or collected for in-depth learning.
 ## Batch download YouTube tool
 
 - [**Generate download script files in batches**](https://github.com/FangSen9000/ai-tools/blob/main/44K%E8%BD%AC16k.ipynb): Visual control dashboard of APISIX.
-- [**Generate download script files in batches**](https://github.com/FangSen9000/ai-tools/blob/main/44K%E8%BD%AC16k.ipynb): Visual control dashboard of APISIX.
+- [**download2.ipynb**](https://github.com/FangSen9000/ai-tools/blob/main/download2.ipynb): Generate download script files in batches, download VGG sound.
 - [**Generate download script files in batches**](https://github.com/FangSen9000/ai-tools/blob/main/44K%E8%BD%AC16k.ipynb): Visual control dashboard of APISIX.
 
 ## More tools
