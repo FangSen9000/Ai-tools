@@ -18,3 +18,5 @@ Tools I wrote or collected for in-depth learning.
 - [**exetract_id.bat**](https://github.com/FangSen9000/ai-tools/blob/main/extract_id.bat): Extract all file names in the folder where the script resides.
 
 ## Written but not needed
+
+![image](https://user-images.githubusercontent.com/72308243/226108826-26f9da66-e6c5-49a6-9ace-88b062f7acf3.png)
